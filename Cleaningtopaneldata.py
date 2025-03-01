@@ -134,5 +134,5 @@ panel_data = panel_data.dropna()
 
 
 # Save cleaned data
-panel_data.to_excel("C:/Users/vertt/Desktop/Gradudata_Final.xlsx", index=False)
+panel_data.to_excel("C:/Users/vertt/Desktop/CleanData.xlsx", index=False)
 # %%
